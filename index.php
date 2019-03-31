@@ -26,7 +26,7 @@
        <input type="submit" name="load_data" value="Load Data" />
  </form>
  <?php
-    $host = "<alvinwebappserver.database.windows.net>";
+    $host = "<sub1webappserver.database.windows.net>";
     $user = "<alvin>";
     $pass = "<tandiardi_05>";
     $db = "<sub1alvindb>";
